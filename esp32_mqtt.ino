@@ -8,7 +8,7 @@ const char *ssid = "La_Fibre_dOrange_2.4G_A7BE_Ext"; // Enter your Wi-Fi name
 const char *password = "xxxxxxxxxxx";  // Enter Wi-Fi password
 
 // MQTT Broker
-const char *mqtt_broker = "196.115.108.101";
+const char *mqtt_broker = "196.115.xx.xx";
 const char *topic = "emqx/esp32";
 const char *mqtt_username = "khalid01";
 const char *mqtt_password = "khalid01";
